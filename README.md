@@ -1,2 +1,2 @@
-# exploring-haskell
-Exploring Haskell. Not util
+# exploring-Java
+Exploring Java. Not util
