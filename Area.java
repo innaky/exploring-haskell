@@ -1,3 +1,5 @@
+package poligon;
+
 import java.lang.Math;
 
 abstract class Shape {
